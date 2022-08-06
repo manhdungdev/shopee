@@ -68,6 +68,11 @@
         justify-content: center;
     }
 
+    .search-history__item {
+        display: block;
+        line-height: 1.5;
+    }
+
 
 }
 
